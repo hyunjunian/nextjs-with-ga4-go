@@ -2,14 +2,14 @@ import type {NextPage} from "next"
 import Link from "next/link"
 import Head from "next/head"
 
-const Home: NextPage = () => {
+const Hello: NextPage = () => {
     return <>
         <Head>
-            <title>Home</title>
+            <title>Hello</title>
         </Head>
-        <h1>Home</h1>
-        <Link href="/hello">hello</Link>
+        <h1>Hello</h1>
+        <Link href="/">home</Link>
     </>
 }
 
-export default Home
+export default Hello
