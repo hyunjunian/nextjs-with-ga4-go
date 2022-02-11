@@ -1,12 +1,12 @@
 # Next.js + Google Analytics + Google Optimize
 
-## Versions
+## 버전
 
 > Next.js: 12.0.10
 > 
 > Google Analytics: UA or GA4
 
-## Introduction
+## 소개
 
 Google Analycis(GA)와 Google Optimize(GO)는 많은 웹 서비스들에 기본적으로 설정하는 것들이다.
 
@@ -70,4 +70,4 @@ css module을 사용하면, 태그에 클래스 속성이 지정된다. 이 상�
 
 ## 결과
 
-이제 위 방법대로 구현한 [코드](https://github.com/hyunjunian/nextjs-with-ga4-go)를 실행시키면 GA와 GO 모두 정상적으로 동작한다.
+이제 위 방법대로 구현한 [본 레포지토리](https://github.com/hyunjunian/nextjs-with-ga4-go)를 다운 받아 실행하면 GA와 GO 모두 정상적으로 동작한다.
