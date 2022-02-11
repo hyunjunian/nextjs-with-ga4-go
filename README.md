@@ -71,3 +71,5 @@ css module을 사용하면, 태그에 클래스 속성이 지정된다. 이 상�
 ## 결과
 
 이제 위 방법대로 구현한 [본 레포지토리](https://github.com/hyunjunian/nextjs-with-ga4-go)를 다운 받아 실행하면 GA와 GO 모두 정상적으로 동작한다.
+
+그리고 GA4 대신 UA를 사용하여 구현한 코드는 [이곳](https://github.com/youha-info/nextjs-with-ga-go)에서 확인할 수 있다.
